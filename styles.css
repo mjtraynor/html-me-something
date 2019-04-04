@@ -1,0 +1,28 @@
+h1 {
+    font: garamond, serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font: garamond, serif;
+    margin: 0;
+    padding: 0;
+}
+
+li {    
+    font: garamond, serif;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font: garamond, serif;
+    margin: 0;
+    padding: 0;
+}
+
+.flag {
+    height: 100px;
+    width:200px;
+}
